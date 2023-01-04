@@ -1,2 +1,2 @@
 # First-step
-This is my firs step in Development
+This is my first step in Development
